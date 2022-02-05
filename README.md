@@ -1,1 +1,3 @@
-# design_patterns_2
+# Design Patterns
+
+Estudo de design patterns com python, acompanhando o curso da Alura

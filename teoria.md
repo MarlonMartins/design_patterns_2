@@ -30,3 +30,6 @@ aqui: http://pt.wikipedia.org/wiki/Linguagem_de_dom%C3%ADnio_espec%C3%ADfico. É
 e aí interprete essa árvore.
 
 É realmente um padrão de projeto bem peculiar, e com utilização bem específica.
+
+## Visitor
+Quando temos uma árvore, e precisamos navegar nessa árvore de maneira organizada, podemos usar um Visitor.

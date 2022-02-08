@@ -33,3 +33,13 @@ e aí interprete essa árvore.
 
 ## Visitor
 Quando temos uma árvore, e precisamos navegar nessa árvore de maneira organizada, podemos usar um Visitor.
+
+## Command
+Esse padrão de projeto facilita a criação de comandos. Usamos ele quando temos que separar os comandos que serão 
+executados do objeto que ele pertence.
+
+### Diferença entre Command e Strategy
+A ideia do Command é abstrair um comando que deve ser executado, pois não é possível executá-lo naquele momento (pois 
+precisamos por em uma fila ou coisa do tipo).
+
+Já no Strategy, a ideia é que você tenha uma estratégia (um algoritmo) para resolver um problema.
